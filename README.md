@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="header-ethereal.png" alt="ETHEREAL" width="100%" style="display: block; margin: 0 auto; max-width: 100%;">
+  <img src="header-ethereal.png" alt="ETHEREAL" width="100%" style="border-radius: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.1);">
 
   <br><br>
 
@@ -25,7 +25,7 @@
 
   <br><br><br>
 
-  <img src="header-ethereal.png" alt="ETHEREAL" width="100%" style="border-radius: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.1);">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" height="3" style="filter: grayscale(100%) brightness(50%) sepia(100%) hue-rotate(5deg) saturate(500%);">
 
   <br><br>
 
